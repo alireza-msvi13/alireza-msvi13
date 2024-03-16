@@ -1,6 +1,5 @@
 #### > Hi Im ALireza👋
 #### > Im junior frnot-end developer🌱
-#### > I code with html / css / js and i wanna learn react soon⚡
 <!--
 **Alireza-edk13/Alireza-edk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
