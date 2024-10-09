@@ -1,15 +1,19 @@
-#### > Hi Im ALireza👋
-<!--
-**Alireza-edk13/Alireza-edk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'm ALireza👋
+======
+ 
 
-Here are some ideas to get you started:
+Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+<h4>A lucky man who is doing what he loves<h3/>
+
+<h3>My Skills 🎲🧩</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,ts,react,redux,nextjs,nodejs,express,mongodb,mysql,redis,git,github,postman"/>
+<!--   nestjs,graphql,jest,docker,postgres,rabbitmq -->
+</p>
+
+<h3>Keep in touch with Me 🤙</h3>
+<a href="https://t.me/Alireza_edk13" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="https://t.me/HosseinDeveloper" height="30" width="40" /></a>
