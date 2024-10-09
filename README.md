@@ -11,7 +11,7 @@ Backend Developer
 
 <h3>My Skills 🎲🧩</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,ts,react,redux,nextjs,nodejs,express,mongodb,mysql,redis,git,github,postman"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,ts,react,redux,nextjs,nodejs,express,mongodb,mysql,redis,npm,git,github,postman"/>
 <!--   nestjs,graphql,jest,docker,postgres,rabbitmq -->
 </p>
 
