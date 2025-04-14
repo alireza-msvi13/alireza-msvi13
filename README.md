@@ -8,17 +8,15 @@ Hi, I'm ALireza👋
 
 Backend Developer | NodeJs
 
-A lucky man who gets to follow his passion
-
 ## My Skills 🎲🧩
 
-<img src="https://skillicons.dev/icons?i=javascript,ts,nodejs,express,nestjs,mongodb,mysql,postgres,sequelize,redis"/>
+<img src="https://skillicons.dev/icons?i=javascript,ts,nodejs,express,nestjs,mongodb,mysql,postgres,sequelize,redis" height="45"/>
  
-<img src="https://skillicons.dev/icons?i=react,nextjs,git,graphql,docker,linux,rabbitmq,kafka,jset"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,git,graphql,docker,linux,rabbitmq,kafka,jset" height="45"/>
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
-## Keep in touch with Me 🤙
+## Keep in touch with Me 📬
 
 <p align="left">
   <a href="https://t.me/Alireza_msvi13" target="_blank">
