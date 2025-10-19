@@ -1,29 +1,34 @@
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/alireza-msvi13)
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A1-blue)](https://github.com/alireza-msvi13)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=alireza-msvi13&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/alireza-msvi13/alireza-msvi13?logo=markdown&label=LAST+UPDATE&color=blue&style=flat">
+---
 
-Hi, I'm ALireza👋
-======
+<div align="center">
 
-Backend Developer | NodeJs
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-## My Skills 🎲🧩
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=cd9106&vCenter=true&width=700&height=70&lines=Alireza+Mousavi;a+Software+Engineer)](https://git.io/typing-svg)
 
-<img src="https://skillicons.dev/icons?i=javascript,ts,nodejs,express,nestjs,mongodb,mysql,postgres,sequelize,redis" height="45"/>
- 
-<img src="https://skillicons.dev/icons?i=react,nextjs,git,graphql,docker,linux,rabbitmq,kafka,jset" height="45"/>
+</div>
 
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+#### Stay curious, keep learning, help others
 
-## Keep in touch with Me 📬
+---
 
-<p align="left">
-  <a href="https://t.me/Alireza_msvi13" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
- </a>
- <a href="mailto:alireza.msvi1313@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Mail-red?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
-  <br />
-</p>
+#### My Programming Philosophies
+
+1. Make it work. Focus on functionality first.
+2. Keep it efficient. Optimize performance and minimize resource use.
+3. Handle errors gracefully. Don’t let third-party code cause panic.
+4. Use the standard library. Depend less, build more.
+5. Choose dependencies wisely. Stick to well-maintained, trusted tools.
+6. Test with purpose. Keep tests sharp and relevant.
+7. Document clearly. Good docs make good code great.
+8. Never stop learning. Stay curious, stay improving.
+
+## 🌐 Socials:
+<div align="left">
+  <a href="alireza.msvi1313@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"/>
+  </a>
+  <a href="https://t.me/alireza_msvi13" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"/>
+  </a>
+</div>
