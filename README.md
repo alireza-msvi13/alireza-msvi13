@@ -14,14 +14,14 @@
 
 #### My Programming Philosophies
 
-1. Make it work. Focus on functionality first.
-2. Keep it efficient. Optimize performance and minimize resource use.
-3. Handle errors gracefully. Don’t let third-party code cause panic.
-4. Use the standard library. Depend less, build more.
-5. Choose dependencies wisely. Stick to well-maintained, trusted tools.
-6. Test with purpose. Keep tests sharp and relevant.
-7. Document clearly. Good docs make good code great.
-8. Never stop learning. Stay curious, stay improving.
+-  Make it work. Focus on functionality first.
+-  Keep it efficient. Optimize performance and minimize resource use.
+-  Handle errors gracefully. Don’t let third-party code cause panic.
+-  Use the standard library. Depend less, build more.
+-  Choose dependencies wisely. Stick to well-maintained, trusted tools.
+-  Test with purpose. Keep tests sharp and relevant.
+-  Document clearly. Good docs make good code great.
+-  Never stop learning. Stay curious, stay improving.
 
 ## 🌐 Socials:
 <div align="left">
