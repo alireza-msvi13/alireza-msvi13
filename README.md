@@ -49,7 +49,7 @@
 ###### Socials :
 
 <div align="left">
-  <a href="alireza.msvi1313@gmail.com" target="_blank">
+  <a href="mailto:alireza.msvi1313@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"/>
   </a>
   <a href="https://t.me/alireza_msvi13" target="_blank">
